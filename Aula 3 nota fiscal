@@ -1,0 +1,22 @@
+NOTA FISCAL
+
+        cada nf deve ter 1 nserie (1→1)
+		cada nserie deve ser de 1 nf (1→1)
+        1:1		
+
+    nserie: texto
+    datahora: timestamp
+
+
+
+itens		
+produtos		
+valor unitario		
+quantidade		
+subtotal		
+total		
+carga de impostos		
+data e hora		
+cnpj		
+cpf cliente		
+nome cliente		
